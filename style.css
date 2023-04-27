@@ -1,0 +1,17 @@
+.Clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+.h1clock:hover {
+    background-color: yellow;
+}
+h1, button {
+    display: inline-block;
+}
+.Clock p {
+    position: absolute;
+    top: 80%;
+    left: 25%;
+  }
